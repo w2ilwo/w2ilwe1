@@ -2,11 +2,11 @@
 "inbounds": [
 {
 "port": 8080,
-"protocol": "vless",
+"protocol": "vmess",
 "settings": {
 "clients": [
 {
-"id": "w2ilwe",
+"id": "e49d1c4e-ef73-4b41-a3cf-b7143b7fbe82",
 "level": 0
 }
 ],
@@ -15,7 +15,7 @@
 "streamSettings": {
 "network": "ws",
 "wsSettings": {
-"path": "/w2ilwe"
+"path": "/Telegram/@w2ilwe/@x_3_o_x"
 }
 }
 }
